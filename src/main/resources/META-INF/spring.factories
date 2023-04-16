@@ -1,0 +1,2 @@
+com.hyl.reactivedemo.spi.SpiTestInterface=\
+    com.hyl.reactivedemo.spi.SpiTestImpl
